@@ -1,0 +1,1 @@
+import{j as e}from"./app-IXPwkiJ8.js";import{T as t}from"./theme-provider-C7uny5Vn.js";function i({children:r}){return e.jsx("div",{className:"w-screen overflow-hidden",children:e.jsx(t,{defaultTheme:"dark",storageKey:"vite-ui-theme",children:r})})}export{i as G};
