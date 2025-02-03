@@ -1,4 +1,4 @@
-# E Service Project
+# Task
 
 A modern web application built with **Laravel** and **Inertia.js** for creating single-page applications (SPAs) with server-side rendering and a seamless developer experience.
 
@@ -6,17 +6,15 @@ A modern web application built with **Laravel** and **Inertia.js** for creating 
 
 ## 🚀 Features
 
-- **Laravel**: Backend framework for building robust web applications.
-- **Inertia.js**: SPA framework that provides a modern development experience without needing an API.
-- **React** frontends.
-- **TypeScript** for code structure
-- Pre-configured with:
-  - User authentication
-  - Tailwind CSS for styling
-  - MySQL Database
-  - With full security
-
-
+-   **Laravel**: Backend framework for building robust web applications.
+-   **Inertia.js**: SPA framework that provides a modern development experience without needing an API.
+-   **React** frontends.
+-   **TypeScript** for code structure
+-   Pre-configured with:
+    -   User authentication
+    -   Tailwind CSS for styling
+    -   MySQL Database
+    -   With full security
 
 ---
 
@@ -28,8 +26,8 @@ Follow these steps to set up the project:
 
 ```bash
 # Clone the repository
-git clone https://github.com/rajibofficial1999/e-service.ergit
-cd e-service
+git clone git@github.com:rajibofficial1999/task.git
+cd task
 ```
 
 ### Install Dependencies
@@ -46,17 +44,17 @@ npm install
 
 1. Copy the `.env.example` file to `.env`:
 
-   ```bash
-   cp .env.example .env
-   ```
+    ```bash
+    cp .env.example .env
+    ```
 
 2. Configure the `.env` file with your database, cache, and mail settings.
 
 3. Generate the application key:
 
-   ```bash
-   php artisan key:generate
-   ```
+    ```bash
+    php artisan key:generate
+    ```
 
 ### Run Database Migrations
 
@@ -78,10 +76,10 @@ Visit the application at `http://localhost:8000`.
 
 ## ✨ Key Features
 
-- **Authentication**: Pre-configured login and registration system.
-- **Routing**: Seamless server-side routing with Inertia.js.
-- **Frontend Framework**: Easily switch between React.
-- **Responsive Design**: Built with Tailwind CSS for modern, mobile-first designs.
+-   **Authentication**: Pre-configured login and registration system.
+-   **Routing**: Seamless server-side routing with Inertia.js.
+-   **Frontend Framework**: Easily switch between React.
+-   **Responsive Design**: Built with Tailwind CSS for modern, mobile-first designs.
 
 ## 🤝 Contributing
 
@@ -95,8 +93,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or support, reach out to:
 
-- Email: [rajibofficial1999@gmail.com](mailto\:rajibofficial1999@gmail.com)
-- GitHub: [Visit GitHub](https://github.com/rajibofficial1999)
+-   Email: [rajibofficial1999@gmail.com](mailto:rajibofficial1999@gmail.com)
+-   GitHub: [Visit GitHub](https://github.com/rajibofficial1999)
 
 ---
 
