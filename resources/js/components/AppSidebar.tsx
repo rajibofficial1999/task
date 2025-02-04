@@ -67,7 +67,7 @@ export function AppSidebar() {
                     <SidebarGroupLabel>
                         <Link
                             href={
-                                user.role === "admin"
+                                isAdmin
                                     ? "/admin/dashboard"
                                     : "/merchant/store-list"
                             }
